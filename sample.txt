@@ -1,3 +1,4 @@
 first line added
 second line
 third line is added from feature-1
+fresh line added
